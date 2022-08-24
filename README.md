@@ -10,7 +10,7 @@ In this project in contrast to [the last TOP assignment that I did](https://gith
   
 ## Summary
 
-- Create HTML markup for the page with content shown on the screen above
+- Create HTML markup for the page with content shown on the screen mentioned above
 - Style elements using CSS
 - CSS Flexbox
 
