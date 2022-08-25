@@ -56,6 +56,7 @@ header .content {
 
 .hero .content {
     padding: 100px 0;
+    display: flex;
 }
 
 .hero hgroup {
@@ -77,4 +78,19 @@ header .content {
     border-radius: 7px;
     padding: .45em 1.9em;
     margin-top: .7em;
+}
+
+.section__picture {
+    width: 525px;
+    height: 230px;
+    background-color: #6d747d;
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section__picture__placeholder {
+    color: #FFF;
+    font-size: 18px;
 }
