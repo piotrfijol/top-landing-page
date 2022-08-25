@@ -162,3 +162,28 @@ header .content {
     font-weight: 700;
     color: #1F2937;
 }
+
+.alert {
+    width: 100%;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 7px;
+    padding: 50px 10px;
+}
+
+.alert__captions {
+    color: #F9FAF8;
+}
+
+.alert__captions__subtext {
+    color: #E5E7EB;
+}
+
+.alert .btn {
+    border: 3px solid #F9FAF8;
+}
+
+section.encourage {
+    margin: 100px auto;
+}
