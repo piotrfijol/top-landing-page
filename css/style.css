@@ -1,4 +1,50 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Roboto';
+}
+
+header {
+    position: absolute;
+    width: 100vw; 
+    top: 0;
+    background-color: transparent;
+}
+
+header h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.content {
+    max-width: 1038px;
+    margin: auto;
+}
+
+header .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav__list {
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: 300;
+    color: #E5E7EB;
+    margin-right: 5px;
+}
+
+
+.nav__list li {
+    display: inline-block;
+}
+
+.nav__list__nav-link {
+    display: block;
+    padding: 1.2em .55em;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    color: #E5E7EB;
 }
