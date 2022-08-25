@@ -29,9 +29,6 @@ header .content {
 
 .nav__list {
     list-style-type: none;
-    font-size: 18px;
-    font-weight: 300;
-    color: #E5E7EB;
     margin-right: 5px;
 }
 
@@ -44,7 +41,40 @@ header .content {
     display: block;
     padding: 1.2em .55em;
     text-decoration: none;
+}
+
+.nav__list__nav-link, .section__caption__subtitle {
     font-size: 18px;
     font-weight: 400;
     color: #E5E7EB;
+}
+
+.hero {
+    padding-top: 70px;
+    background-color: #1F2937;
+}
+
+.hero .content {
+    padding: 100px 0;
+}
+
+.hero hgroup {
+    max-width: 450px;
+}
+
+.section__caption__title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.btn {
+    background-color: #3882F6;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    border-radius: 7px;
+    padding: .45em 1.9em;
+    margin-top: .7em;
 }
