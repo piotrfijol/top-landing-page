@@ -97,9 +97,10 @@ header .content {
 }
 
 .card {
-    display: flex;
+    display: inline-flex;
     flex-direction: column;
     max-width: 160px;
+    margin-left: 50px;
 }
 
 .card__image {
