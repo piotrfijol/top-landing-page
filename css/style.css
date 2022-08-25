@@ -56,6 +56,7 @@ header .content {
 
 .hero .content {
     padding: 100px 0;
+    padding-bottom: 140px;
     display: flex;
 }
 
@@ -93,4 +94,24 @@ header .content {
 .section__picture__placeholder {
     color: #FFF;
     font-size: 18px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    max-width: 160px;
+}
+
+.card__image {
+    width: 160px;
+    height: 160px;
+    border: 4px solid #3882F6;   
+    border-radius: 16px;
+}
+
+.card__caption {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 17px;
+    color: #3f434b;
 }
