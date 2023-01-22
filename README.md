@@ -1,6 +1,6 @@
 # [TOP] Landing Page
 
-Another quick refresher, this time on CSS and flexbox. Disclaimer: In the assignment the design is meant only for desktop users. What that means is that I did not take mobile-first approach and website won't adjust nicely on every device. 
+Another quick refresher, this time on CSS and flexbox. Disclaimer: In the assignment the design assumes that only desktop users will visit it. What that means is that I did not take mobile-first approach and website won't adjust nicely on every device. 
 
 ## Description
 
