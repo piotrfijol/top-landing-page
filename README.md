@@ -1,6 +1,6 @@
 # [TOP] Landing Page
 
-Another quick refresher, this time on CSS and flexbox.  
+Another quick refresher, this time on CSS and flexbox. In the assignment design is meant only for desktop computers and that's how I coded it. What that means is that I did not take mobile-first approach and website won't adjust nicely on every device. 
 
 ## Description
 
